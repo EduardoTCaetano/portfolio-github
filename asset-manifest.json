@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portfolio-github/static/css/main.4d6a6be0.css",
+    "main.js": "/portfolio-github/static/js/main.3826f147.js",
+    "static/media/eShop.jpg": "/portfolio-github/static/media/eShop.3d827d4392b8cd46b745.jpg",
+    "static/media/EduardoCaetano-Currículo.pdf": "/portfolio-github/static/media/EduardoCaetano-Currículo.06038ffc606ac063348c.pdf",
+    "static/media/fotocomfundo.jpg": "/portfolio-github/static/media/fotocomfundo.2214a634192db5267b12.jpg",
+    "static/media/BlitzTech.jpg": "/portfolio-github/static/media/BlitzTech.b3f4c6fe02b47511c733.jpg",
+    "static/media/Eduardo-Portfolio.jpeg": "/portfolio-github/static/media/Eduardo-Portfolio.4e6e345445cb08df6315.jpeg",
+    "static/media/BWShop.jpeg": "/portfolio-github/static/media/BWShop.c6f7dc0f31c07d3ae4ff.jpeg",
+    "static/media/FotoPerfil.jpeg": "/portfolio-github/static/media/FotoPerfil.b4014d96649244020d35.jpeg",
+    "index.html": "/portfolio-github/index.html",
+    "main.4d6a6be0.css.map": "/portfolio-github/static/css/main.4d6a6be0.css.map",
+    "main.3826f147.js.map": "/portfolio-github/static/js/main.3826f147.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d6a6be0.css",
+    "static/js/main.3826f147.js"
+  ]
+}
